@@ -10,7 +10,7 @@
 Este projeto é um site de portfólio pessoal desenvolvido com o objetivo de criar uma landing page e reforçar diversos aprendizados do curso de CSS da DIO.
 
 ## ✔️ Técnicas e tecnologias utilizadas
-- **HTML**5: Para a marcação semântica do conteúdo.  
+- **HTML5**: Para a marcação semântica do conteúdo.  
 - **CSS3**: Para estilização e layout, incluindo:  
     - Estilização de containers, alterando bordas, cores e tipografia.  
     - Manipulação de imagens, modificando suas posições e propriedades.  
